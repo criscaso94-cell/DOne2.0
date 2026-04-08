@@ -1,0 +1,11 @@
+main{
+    width: 70%;
+    margin: 0 auto;
+}
+section p {
+    text-align: center;
+}
+
+#logo{
+    border-radius: 10%;
+}
